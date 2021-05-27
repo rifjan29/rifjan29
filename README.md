@@ -1,6 +1,7 @@
-### Hi there, My Name Is Rifjan Jundila 👋
+### Hi there, My Name Is Rifjan Jundila 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 <!--
 **rifjan29/rifjan29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

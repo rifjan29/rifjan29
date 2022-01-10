@@ -1,7 +1,6 @@
 ### Hi there, My Name Is Rifjan Jundila 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" />  a Frontend Developer and Backend Developer
+- a Frontend Developer 
 
 
 <!--

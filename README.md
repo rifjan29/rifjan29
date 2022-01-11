@@ -21,7 +21,5 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rifjan29&show_icons=true&locale=en" alt="rifjan29"/>
- 
 </p>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifjan29)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -4,7 +4,7 @@ Hi 👋 My name is Rifjan Jundila
 Web Developer and Designer UI/UX
 --------------------------------
 
-An web developer with 1 years of experience in web application development with an recommended architecture for building robust, production-quality apps. And also interest to learn more about new technology and Design UI/UX
+An web developer with 1 years of experience in web application development with an recommended architecture for building robust, production-quality apps. And also interest to learn more about new technology and UI/UX Design
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [My Portfolio](http://www.figma.com/file/a2hgQmISsDoAVzRsYcTZNF/CV-Rifjan-Jundila?node-id=0%3A1)
